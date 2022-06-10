@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recipe application",
+  "main": "controller.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-garcia/forkifyv2.git"
+  },
+  "author": "Jorge Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-garcia/forkifyv2/issues"
+  },
+  "homepage": "https://github.com/george-garcia/forkifyv2#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  }
+}

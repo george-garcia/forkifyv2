@@ -1,3 +1,7 @@
+if (module.hot) {
+  module.hot.accept();
+}
+
 const recipeContainer = document.querySelector('.recipe');
 
 const timeout = function (s) {
@@ -11,3 +15,10 @@ const timeout = function (s) {
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
+
+console.log('tessdfsd;lvxd;asdflvft');
+console.log('tesdfsdfst2');
+console.log('asdfasdf');
+console.log('testsdfsdf5');
+console.log('tesasdt5');
+console.log('asdfasdfasdfsdfsdf');
